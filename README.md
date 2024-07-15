@@ -16,19 +16,15 @@ empowering you to provide data-driven suggestions for improving sales tactics.
 
 
 # Title of the project 02: HR Data Analysis
+
 Activities to complete:
 
 Data cleansing involves removing unnecessary columns.
-
 Giving the columns new names.
-
 Eliminating redundant entries.
-
-Sanitizing specific columns.
-
+sanitizing specific columns.
 Eliminate the dataset's NaN values.
 Look for a few more changes if necessary
-
 
 # Title of the project 03: Titanic Survival Prediction
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
