@@ -12,7 +12,7 @@ to successfully convey your findings, you will compute revenue measures like
 3. determine the best-selling products, and build visualizations.
 This assignment demonstrates your capacity to work with and extract knowledge from huge datasets,
 empowering you to provide data-driven suggestions for improving sales tactics.
-
+https://public.tableau.com/shared/35TZYMF6F?:display_count=n&:origin=viz_share_link
 ![Link](https://public.tableau.com/shared/35TZYMF6F?:display_count=n&:origin=viz_share_link)
 # Title of the project 02: HR Data Analysis
 
