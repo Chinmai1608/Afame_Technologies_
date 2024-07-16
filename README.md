@@ -36,3 +36,4 @@ The dataset typically used for this project contains information about individua
 their age, gender, ticket class, fare, cabin, and whether or not they survived.
 
 
+![Dashboard 1](https://github.com/user-attachments/assets/d8330be8-8151-41a0-a378-e0eb01c9670d)(https://public.tableau.com/shared/HM2GK4MPN?:display_count=n&:origin=viz_share_link)
