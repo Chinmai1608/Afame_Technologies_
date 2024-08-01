@@ -1,7 +1,10 @@
 ## Afame_Technologies_
+![Screenshot from 2024-07-16 15-10-25](https://github.com/user-attachments/assets/52bb5ddb-f74c-4800-ad4b-4c801f5b64fa)
+
 Data Analyst Internship
 # Title of the project 01: Sales Data Analysis
 Goal:
+
   Use sales data analysis to find patterns, best-selling items, and revenue indicators to help in business decision-
 making.
 
@@ -12,8 +15,10 @@ to successfully convey your findings, you will compute revenue measures like
 3. determine the best-selling products, and build visualizations.
 This assignment demonstrates your capacity to work with and extract knowledge from huge datasets,
 empowering you to provide data-driven suggestions for improving sales tactics.
-https://public.tableau.com/shared/35TZYMF6F?:display_count=n&:origin=viz_share_link
-![Link](https://public.tableau.com/shared/35TZYMF6F?:display_count=n&:origin=viz_share_link)
+
+## Dashboard
+<noscript><a href='https://public.tableau.com/views/SalesDataAnalysisAfameDataAnalysisInternship/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/67c4323d-5c31-4a7d-bf66-0c2ec8b604d1' style='border: none' /></a></noscript>
+
 # Title of the project 02: HR Data Analysis
 
 Activities to complete:
@@ -24,6 +29,13 @@ Eliminating redundant entries.
 sanitizing specific columns.
 Eliminate the dataset's NaN values.
 Look for a few more changes if necessary
+
+## Links
+<a href="https://colab.research.google.com/drive/1tmmBubVRZWZIyVPkD3aYW9gdZdcGFUn_?usp=sharing" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="50" height="50"/></a> 
+<a href="https://github.com/Chinmai1608/Afame_Technologies_/blob/main/HR_Data_Analysis.ipynb="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/filemaker/filemaker-icon.svg" alt="git" width="50" height="50"/></a>
+
 
 # Title of the project 03: Titanic Survival Prediction
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -36,4 +48,3 @@ The dataset typically used for this project contains information about individua
 their age, gender, ticket class, fare, cabin, and whether or not they survived.
 
 
-![Dashboard 1](https://github.com/user-attachments/assets/d8330be8-8151-41a0-a378-e0eb01c9670d)(https://public.tableau.com/shared/HM2GK4MPN?:display_count=n&:origin=viz_share_link)
